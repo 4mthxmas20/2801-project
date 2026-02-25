@@ -1,1 +1,1 @@
-# 2801-smart-city-course-project
+# 2801 project
